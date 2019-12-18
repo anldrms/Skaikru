@@ -1,1 +1,1 @@
-Springboot test application created with by My Dear <3
+Skaikru project was created for the love of my life.
